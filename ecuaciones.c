@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 
-/* RODRIGO PENDEJO */
+/* Ejercicio de if/else/switch de hallar el tipo de ecuación. */
 
 void leerCoeficientes(float *a, float *b, float *c);
 void calculaSoluciones(int,float,float,float);
